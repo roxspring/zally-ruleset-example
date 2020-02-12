@@ -3,7 +3,7 @@ import de.zalando.zally.rule.api.*
 
 @Rule(
     ruleSet = ExampleRuleSet::class,
-    id = "EgoRule",
+    id = "ExampleEgoRule",
     severity = Severity.MUST,
     title = "Reference Example Corp in API descriptions"
 )
