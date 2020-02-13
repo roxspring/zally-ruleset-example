@@ -13,7 +13,7 @@ repositories {
 }
 
 dependencies {
-    val zallyVersion = "feat~gh-964-jitpack-support-SNAPSHOT"
+    val zallyVersion = "master-SNAPSHOT"
 
     kapt("com.github.zalando.zally:zally-core:$zallyVersion")
 

@@ -13,7 +13,7 @@ A daft example rule which simply insists that API descriptions refer to "Example
 ```
 
 Note that there is currently no official public maven repository to supply dependencies.
-This example uses a http://jitpack.io repository to access a branch build for now.
+This example uses a http://jitpack.io repository to access the latest `master-SNAPSHOT`.
 Tracked in Zally issue [#964](https://github.com/zalando/zally/issues/964).
 
 ## Docker
